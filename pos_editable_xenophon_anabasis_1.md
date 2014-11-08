@@ -39,7 +39,7 @@
 ### Unknown words
 ['Παρυσάτιδος', 'Ἀρταξέρξης', 'ἠσθένει', 'ὑπώπτευε']
 ### Corrected by
-['']
+['kylepjohnson']
 
 ## Sentence 2
 ### Plaintext
