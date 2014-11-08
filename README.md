@@ -1,9 +1,12 @@
 # About
 The file `pos_editable_xenophon_anabasis.md` is a human–editable POS–tagged text of [Xenohphon's *Anabasis*](https://en.wikipedia.org/wiki/Anabasis_%28Xenophon%29). Any GitHub user can check the quality of a sentence's POS tags, fix or confirm it, and give one's name.
 
-The text was tagged using (the CLTK's TnT tagger](http://docs.cltk.org/en/latest/greek.html#tnt-tagger). The file `Make human-editable POS text from TLG.py` generated `pos_editable_xenophon_anabasis.md`.
+The text was tagged using (the CLTK's TnT tagger](http://docs.cltk.org/en/latest/greek.html#tnt-tagger). The file `Make human-editable POS text from TLG.py` generated `pos_editable_xenophon_anabasis.md`, which was then broken down into files for each book.
 
 Once the *Anabasis* has been tagged, in part or in full, it will be added to (the CLTK's POS tagging training set](https://github.com/cltk/greek_treebank_perseus/blob/master/greek_training_set.pos).
+
+# How to edit
+To begin editing, make a free GitHub user account, [fork this repository](https://help.github.com/articles/fork-a-repo/), pick a book, find a sentence which has not been edited, and check and fix the tags. Then, [submit a pull request](https://help.github.com/articles/creating-a-pull-request/).
 
 
 # POS tags
